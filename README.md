@@ -1,7 +1,11 @@
 # nirmal.github.io
 <html>
-  <h1>
+  <body>
+   <h1>
     HI
   </h1>
+    
+  </body>
+ 
     
 </html>
